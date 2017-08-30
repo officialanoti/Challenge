@@ -24,7 +24,7 @@ import java.util.List;
 import static android.R.attr.start;
 
 /**
- * Created by adeyemogabriel on 8/30/17.
+ * Created by Magaji on 8/30/17.
  */
 
 public class FinderAdapter extends RecyclerView.Adapter<FinderAdapter.FinderViewHolder> {
