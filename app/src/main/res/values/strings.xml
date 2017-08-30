@@ -2,6 +2,6 @@
     <string name="app_name">Challenge</string>
     <string name="title_activity_detail">DetailActivity</string>
     <string name="error_internet">Check internet connection</string>
-    <string name="error_empty">Try again</string>
+    <string name="error_empty">Try again!</string>
     <string name="action_settings">Settings</string>
 </resources>
